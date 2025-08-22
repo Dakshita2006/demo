@@ -11,8 +11,9 @@ Scanner scan=new Scaanner(system.in);
 	 r=scan.nextFloat();
 	system.out.println("enter the time period:");
 	 n=scan.nextFloat();
-	 si=(p/r/n)/ 100;
+	 si=(p/r/n) 100;
 	 system.out.println("simple interest is:"+si);
 	 }
 
  }
+
